@@ -1,4 +1,7 @@
-Certificación como Estudiante en Introducción al Pensamiento Computacional y Desarrollo Web: Entrega de proyecto final en HTML, CSS y JS
+Certificación como Estudiante en Introducción al Pensamiento Computacional y Desarrollo Web: Entrega de proyecto final en HTML, CSS y JS.
+
+Adjunto link de Proyecto Final en repositorio GitHub de Patrones Hermosos©: https://github.com/PatronesHermosos/proyecto-final-3ra-intro/blob/main/equipo-03/entregables4.md
+
 ![BP2021](https://user-images.githubusercontent.com/91509952/187061848-3944297b-8d77-455f-a4ed-84597e9b04f7.jpg)
 
 ![html](https://user-images.githubusercontent.com/91509952/187062068-d270ec23-b4cf-4786-91a0-d04b19dffd31.png) 
